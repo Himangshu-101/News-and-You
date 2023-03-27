@@ -29,3 +29,13 @@ import {
 }
 
 export default App
+
+
+// LINES THAT WERE DELETED FROM PACKAGE.JSON TO MAKE THE PRODUCTION BUILD
+
+//   "eslintConfig": {
+//     "extends": [
+//         "react-app",
+//         "react-app/jest"
+//       ]
+//     },
